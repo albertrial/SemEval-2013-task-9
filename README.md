@@ -1,4 +1,5 @@
 # SemEval-2013 Task 9: Extraction of Drug-Drug Interactions from BioMedical Texts
+*Project done for the AHLT (Advanced Human Languages Technologies) course (Master in Artificial Intelligence at UPC)*
 Authors:
 - Karen Lliguin
 - Albert Rial
@@ -18,4 +19,4 @@ The best results obtained are the following:
 - Devel set: precision 0.68, recall 0.62, F1 0.65
 - Test set: precision 0.52, recall 0.59, F1 0.55
 
-*Project done for the AHLT (Advanced Human Languages Technologies) course (Master in Artificial Intelligence at UPC)*
+
