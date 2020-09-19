@@ -8,3 +8,12 @@ This repository contains different approaches to address the SemEval 2013 Task 9
 - Task 9.2: Detection and classification of drug-drug interactions between pairs of drugs.
 
 In the source folder you will find several jupyter notebooks containing each one a different approach. There are also two notebooks (one per subtask) called *report.ipynb* where you can find the explanation of each approach taken and the results obtained.
+
+## Results
+The best results obtained are the following:
+#### Task 9.1 (NERC)
+- Devel set: precision 0.95, recall 0.73, F1 0.79
+- Test set: precision 0.9, recall 0.64, F1 0.69
+##### Task 9.2 (DDI)
+- Devel set: precision 0.68, recall 0.62, F1 0.65
+- Test set: precision 0.52, recall 0.59, F1 0.55
