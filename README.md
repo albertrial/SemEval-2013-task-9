@@ -17,3 +17,5 @@ The best results obtained are the following:
 ##### Task 9.2 (DDI)
 - Devel set: precision 0.68, recall 0.62, F1 0.65
 - Test set: precision 0.52, recall 0.59, F1 0.55
+
+*Project done for the AHLT (Advanced Human Languages Technologies) course (Master in Artificial Intelligence at UPC)*
