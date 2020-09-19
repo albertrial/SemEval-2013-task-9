@@ -1,5 +1,6 @@
 # SemEval-2013 Task 9: Extraction of Drug-Drug Interactions from BioMedical Texts
 *Project done for the AHLT (Advanced Human Languages Technologies) course (Master in Artificial Intelligence at UPC)*
+
 Authors:
 - Karen Lliguin
 - Albert Rial
