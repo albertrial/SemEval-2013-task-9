@@ -1,9 +1,9 @@
 # SemEval-2013 Task 9: Extraction of Drug-Drug Interactions from BioMedical Texts
 Authors:
-    - Karen Lliguin
-    - Albert Rial
+- Karen Lliguin
+- Albert Rial
     
-This repository contains different approaches to address the SemEval 2013 Task 9. This task concerns the recognition of drugs and extraction of drugdrug interactions that appear in biomedical literature. It is divided in two subtasks:
+This repository contains different approaches to address the SemEval 2013 Task 9. This task concerns the recognition of drugs and extraction of drug-drug interactions that appear in biomedical literature. It is divided in two subtasks:
 - Task 9.1: Recognition and classification of drug names.
 - Task 9.2: Detection and classification of drug-drug interactions between pairs of drugs.
 
